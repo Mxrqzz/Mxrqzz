@@ -62,6 +62,6 @@ Tenho foco em desenvolvimento web Back-end, além de interesse nas áreas de dad
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxrqzz&layout=normal&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxrqzz&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
