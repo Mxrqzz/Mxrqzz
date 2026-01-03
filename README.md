@@ -1,12 +1,12 @@
 # 👨🏾‍💻 Rodrigo Marques
 
-**`Desenvolvedor FullStack | Analista de Melhoria de Processos | Designer Gráfico`**
+**`Desenvolvedor Back-End | Designer Gráfico`**
 
 🌎 Brasília • 🧑🏾 23 anos
 
 ---
 
-Olá, me chamo Rodrigo Marques, tenho 23 anos e sou Desenvolvedor Full Stack, Analista de Melhoria de Processos e Designer Gráfico.  
+Olá, me chamo Rodrigo Marques, tenho 23 anos e sou Desenvolvedor Back-end e Designer Gráfico.  
 Sou formado em Análise e Desenvolvimento de Sistemas pela UniProjeção, unidade Sobradinho.  
 Tenho foco em desenvolvimento web Back-end, além de interesse nas áreas de dados e inteligência artificial, buscando sempre aplicar soluções eficientes e inovadoras.
 
