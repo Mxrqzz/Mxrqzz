@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End | Designer Gráfico`**
 
-🌎 Brasília • 🧑🏾 23 anos
+🌎 Brasília • 🧑🏾 24 anos
 
 ---
 
